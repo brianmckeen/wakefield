@@ -27,6 +27,7 @@ Roxygen: list(wrap = FALSE)
 Collate:
     'utils.R'
     'r_sample.R'
+    'admission_method.R'
     'age.R'
     'r_sample_factor.R'
     'animal.R'
