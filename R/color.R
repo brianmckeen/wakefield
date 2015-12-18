@@ -45,7 +45,7 @@ color <- function(n, k = 10, x = grDevices::colors(), prob = NULL, name = "Color
 #' @rdname color
 primary <- hijack(r_sample_factor,
     name = "Color",
-    x = c("Red", "Green", "Blue", "Yellow", "Black", "White")
+    x = c("Red", "Green", "Blue", "Yellow", "Black", "White", "Pembe")
 )
 
 
